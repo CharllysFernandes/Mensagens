@@ -1,3 +1,13 @@
 matches:
   - trigger: ":world"
     replace: "Hello from Msg Package!"
+  - trigger: "\\ab"
+    replace: |
+              Chamado aberto.
+              Demanda encaminhada para a equipe Central de Serviços. Verificar a possibilidade do atendimento remoto.
+  - trigger: "\\at"
+    replace: "Em atendimento."
+  - trigger: "\\md"
+    replace: "Demanda encaminhada para a equipe remota responsável para verificar a possibilidade de atendimento."
+  - trigger: "\\ec"
+    replace: "Demanda encaminhada para a equipe local responsável para verificar a possibilidade de atendimento."
