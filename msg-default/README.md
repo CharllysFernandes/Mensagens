@@ -1,0 +1,1 @@
+Mensagens padronizadas Central de Suporte.
