@@ -8,6 +8,6 @@ matches:
   - trigger: "\\at"
     replace: "Em atendimento."
   - trigger: "\\md"
-    replace: "Demanda encaminhada para a equipe remota responsável para verificar a possibilidade de atendimento."
+    replace: "Demanda encaminhada para a equipe remota responsável para verificar a possibilidade do atendimento."
   - trigger: "\\ec"
-    replace: "Demanda encaminhada para a equipe local responsável para verificar a possibilidade de atendimento."
+    replace: "Demanda encaminhada para a equipe local responsável para verificar a possibilidade do atendimento."
